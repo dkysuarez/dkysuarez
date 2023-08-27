@@ -1,5 +1,4 @@
-![Uploading giphy.gif…]()
 
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
