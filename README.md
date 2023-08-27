@@ -1,3 +1,3 @@
 
 ### Hi there 👋
-!https://giphy.com/embed/RbDKaczqWovIugyJmW
+https://giphy.com/embed/RbDKaczqWovIugyJmW
