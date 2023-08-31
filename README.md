@@ -2,5 +2,5 @@
 
   <h3 aling="center">I am passionate about continuous learning and exploring new technologies to further enhance my skills in this constantly evolving field
   </h3>
- <![giphy](https://github.com/dkysuarez/dkysuarez/assets/130209447/2ad142fb-038e-4deb-a708-fd98d53a38f8))>
 
+![giphy](https://github.com/dkysuarez/dkysuarez/assets/130209447/e23fbfbb-46c4-49a7-959b-d78fc631f955)
