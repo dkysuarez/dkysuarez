@@ -1,4 +1,5 @@
 <h1 aling="center"> ### Hi there 👋, I'm Dky</h1>
+<h1 aling="center">👋 I'm Dky</h1>
 <div id="header" aling="center">
 <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="200">
 <h3 aling="center">I am passionate about continuous learning and exploring new technologies to further enhance my skills in this constantly evolving field</h3>
