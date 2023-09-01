@@ -5,4 +5,4 @@
 
 ![giphy](https://github.com/dkysuarez/dkysuarez/assets/130209447/e23fbfbb-46c4-49a7-959b-d78fc631f955)
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" />
