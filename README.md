@@ -39,4 +39,20 @@ programming and data analysis.
     <img src="https://user-images.githubusercontent.com/130209447/265293233-32ec8360-33b2-4e0b-84b2-4c386b41e271.png" title="django" width="100" height="100"/>
     <img src="https://user-images.githubusercontent.com/130209447/265293235-b0713718-800f-405b-a6d5-8ce5b4f48b0e.jpg" title="python" width="100" height="100"/>
  </div>
- 
+
+<h3>🤖🧠 Data analysis tools: </h3>
+<div>
+    <img src="https://user-images.githubusercontent.com/130209447/265293511-a715ef27-cce5-4907-8f47-36797bb80e2f.png" title="matplot" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293514-113afcec-4805-4265-bdc5-06ca64ea6829.png" title="pandas" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293512-14ed2a24-6dd4-4fef-bfcf-e51126032b37.png" title="skl" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293515-78be9d5e-fe30-440b-b8fa-379f62a9f4f4.png" title="numpy" width="100" height="100"/>
+ </div>
+
+<h3>📊🔍 Databases: </h3>
+<div>
+    <img src="https://user-images.githubusercontent.com/130209447/265293783-c8ef8f3e-51d5-4c80-ac9a-850ea4fa95ad.png" title="mysql" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293781-2f47513f-455e-48df-8294-4f6d9be80a68.png" title="post" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293784-ca10eb5f-4362-4653-83ff-d91279d8f894.png" title="" width="100" height="100"/>
+ </div> 
+
+
