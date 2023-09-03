@@ -12,7 +12,7 @@
 </div>
 
 ---
-About Me:
+ 🤔About Me:
 <br>
 -👋 My name is Ali Suarez, I am a computer engineer with experience in programming and data analysis.
 programming and data analysis.
