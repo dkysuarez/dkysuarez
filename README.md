@@ -16,6 +16,7 @@
 <br>
 -👋 My name is Ali Suarez, I am a computer engineer with experience in programming and data analysis.
 programming and data analysis.
+</br>
 -💻 I love working on challenging projects and learning new skills. 
 <br>
 -🌟 I am currently focused on the development of projects related to Artificial Intelligence and Data Science. 
