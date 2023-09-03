@@ -21,6 +21,18 @@ programming and data analysis.
 <br>
 -🌟 I am currently focused on the development of projects related to Artificial Intelligence and Data Science. 
 </br>
--📚 Programming languages:Python,Java, Go.
-<br>
 -🤝 I love collaborating with other developers and sharing knowledge in the community.
+</br>
+
+<div align="left">
+  <h3>📚 Programming languages</h3> 
+  <div>
+    <img src="https://user-images.githubusercontent.com/130209447/265292882-e8c1c4bf-c663-4d3f-ad75-6587746f2a45.jpg" title="go" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265292980-8878d053-f4d4-4b02-9e71-d6f0a1dbc500.jpg" title="java" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/130209447/265293057-b72961a9-3c47-4962-a505-3750b8354f76.jpg" title="python" width="100" height="100"/>
+ </div>
+</div>
+
+
+
+
