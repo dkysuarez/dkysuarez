@@ -54,5 +54,14 @@ programming and data analysis.
     <img src="https://user-images.githubusercontent.com/130209447/265293781-2f47513f-455e-48df-8294-4f6d9be80a68.png" title="post" width="100" height="100"/>
     <img src="https://user-images.githubusercontent.com/130209447/265293784-ca10eb5f-4362-4653-83ff-d91279d8f894.png" title="" width="100" height="100"/>
  </div> 
+<h3>📈 My Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dkysuarez&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+![dkysuarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkysuarez&hide=contribs,prs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkysuarez&layout=compact)](https://github.com/dkysuarez/github-readme-stats)
+
+
