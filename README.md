@@ -3,14 +3,18 @@
 <div id="header align="center">
   <h1 align="center">Hi there 👋, I'm Dky</h1>
   <h3 align="center">I am passionate about continuous learning and exploring new technologies to further enhance my skills in this constantly evolving field.
+    
    
   </h3>
-  <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/130209447/264822274-b2ac0270-4256-4ae2-8e7a-e55b8c9d91b3.gif" width="280"/>
-    <img src="https://user-images.githubusercontent.com/130209447/265292237-2ae515bf-e3d4-464f-81ae-b1f6f1826cd1.gif" width="280"/>
-  </h1>
+  <div align="center">
+    
+ <img src="https://user-images.githubusercontent.com/130209447/265292237-2ae515bf-e3d4-464f-81ae-b1f6f1826cd1.gif" width="280"/>
+ <img src="https://user-images.githubusercontent.com/130209447/264822274-b2ac0270-4256-4ae2-8e7a-e55b8c9d91b3.gif" width="280"/> 
+    
+  
 </div>
-
+  
+  
 ---
  🤔About Me:
 <br>
