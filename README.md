@@ -59,9 +59,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=dkysuarez&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-![dkysuarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkysuarez&hide=contribs,prs)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkysuarez&layout=compact)](https://github.com/dkysuarez/github-readme-stats)
-
 
